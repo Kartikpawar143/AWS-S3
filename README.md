@@ -3,20 +3,20 @@
 
 -Sign in to the "AWS Management Console".
 
-![Screenshot_20230620_130010](https://github.com/Diplahane/AWS-S3/assets/129828021/88b6db5b-3911-4183-aee6-f55f2ed373b8)
+![Screenshot 2025-01-11 214628](https://github.com/user-attachments/assets/8e1d58e6-4de5-44e8-81e6-78d77968716a)
 
 # Step 2: 
 
 -Navigate to the S3 service by searching for "S3" in the AWS Management Console search bar.
 
-![Screenshot_20230620_130443](https://github.com/Diplahane/AWS-S3/assets/129828021/a58dc3ab-edea-4c17-b3bd-d5116c6aa22b)
+![Screenshot 2025-01-11 214650](https://github.com/user-attachments/assets/c4a76fe7-e905-4414-8848-fa2aaabd0b02)
 
 
  # Step 3:  
 
 -Click on the "Create bucket" button to start the bucket creation process. 
 
-![Screenshot_20230620_130513](https://github.com/Diplahane/AWS-S3/assets/129828021/adc3dad7-290e-4745-af99-b082a3aa34b3)
+![Screenshot 2025-01-11 214736](https://github.com/user-attachments/assets/812bf5bd-bf13-4633-a555-9dab66e4939f)
 
 
 
@@ -26,26 +26,26 @@
 
 -Choose the region where you want your bucket to be located.  
 
-![Screenshot_20230620_130739](https://github.com/Diplahane/AWS-S3/assets/129828021/f210a7dd-f1cd-435b-b01b-a51fb30005f6)
+![Screenshot 2025-01-11 214916](https://github.com/user-attachments/assets/4ce93568-98fa-4fd1-baeb-634d8f3331f9)
 
 -Leave all other settings as their default values and click on the "Create" button to create the bucket.
 
-![Screenshot_20230620_130751](https://github.com/Diplahane/AWS-S3/assets/129828021/fc34b2b2-40f7-4b07-a596-32187aaecb53)
+![Screenshot 2025-01-11 214846](https://github.com/user-attachments/assets/32bb3666-61c9-44b9-b0ff-95b678bd244c)
 
 
 # Step 5: 
 
 -Your Bucket is Successfully Created.
 
-![Screenshot_20230620_130823](https://github.com/Diplahane/AWS-S3/assets/129828021/56b5f56c-3284-413b-b7bd-9dead0e41f6e)
+![Screenshot 2025-01-11 214927](https://github.com/user-attachments/assets/4d74c493-5a88-416e-be50-0107b5f2b87b)
 
 -Navigate to bucket "Properties"
 
-![Screenshot_20230620_130850](https://github.com/Diplahane/AWS-S3/assets/129828021/e020a67e-7655-44a5-9cbc-57a5990d9693)
+![Screenshot 2025-01-11 215020](https://github.com/user-attachments/assets/39805d72-3d10-4e6f-9ec8-fbb9ab994df8)
 
 -Under "Static website hosting," click on the "Edit" button. 
 
-![Screenshot_20230620_131006](https://github.com/Diplahane/AWS-S3/assets/129828021/2416c6e7-1789-4564-9833-0cadea66ec04)
+![Screenshot 2025-01-11 215054](https://github.com/user-attachments/assets/cc5ed5f4-e49b-47b0-a852-503d805979d8)
 
 -Select the option "Enable". 
 
@@ -55,7 +55,7 @@
 
 -Click on the "Save changes" button.
 
-![Screenshot_20230620_131223](https://github.com/Diplahane/AWS-S3/assets/129828021/7d999374-5f6f-4f48-8c99-deeec1bdba43)
+![Screenshot 2025-01-11 215603](https://github.com/user-attachments/assets/249855e5-cab0-4d61-9441-19dd7a033338)
 
 
 # Step 6: 
