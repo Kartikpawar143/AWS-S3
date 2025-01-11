@@ -111,13 +111,13 @@ Click on the "Save" button to save the file.
 
 -Locate the section titled "Block public access (bucket settings)" and click on "Edit."
 
-![Screenshot_20230620_131813](https://github.com/Diplahane/AWS-S3/assets/129828021/79e43ee8-29a8-4efa-8e07-4b445a2e2171)
+![Screenshot 2025-01-11 215920](https://github.com/user-attachments/assets/3163b76f-277a-4bc0-9bbd-d7402a6241eb)
 
 
 
 -Uncheck the box labeled "Block all public access" to allow public access to the bucket.
 
-![Screenshot_20230620_131849](https://github.com/Diplahane/AWS-S3/assets/129828021/c7725df5-5b6f-41c7-bcb0-06abd5ba414a)
+![Screenshot 2025-01-11 215951](https://github.com/user-attachments/assets/dc026fdc-96c7-47a8-8449-ae5a9086a702)
 
 
 
@@ -125,7 +125,7 @@ Click on the "Save" button to save the file.
 
 -this will will effectively enable public access for the bucket
 
-![Screenshot_20230620_131924](https://github.com/Diplahane/AWS-S3/assets/129828021/86ae9715-dd6a-477b-9424-619cfb7acab1)
+![Screenshot 2025-01-11 220019](https://github.com/user-attachments/assets/6ca623a0-6705-4c08-b198-3aa9de69c351)
 
 # Step 8
 
@@ -133,15 +133,15 @@ Click on the "Save" button to save the file.
 
 -Locate the section titled "Bucket policy" and click on "Edit."
 
-![Screenshot_20230620_132038](https://github.com/Diplahane/AWS-S3/assets/129828021/397ce014-d02a-42bc-9aa8-6ce6cc4844fb)
+![Screenshot 2025-01-11 220039](https://github.com/user-attachments/assets/83b37c35-3af7-478e-b957-e39055a64ab3)
 
 -Click on "Policy Generator" it will open in a new window.
 
-![Screenshot_20230620_132107](https://github.com/Diplahane/AWS-S3/assets/129828021/684af865-550f-494c-851b-0d4fa33c1d54)
+![Screenshot 2025-01-11 220100](https://github.com/user-attachments/assets/e69be994-1a4d-4116-9ac1-16967e5cdf1e)
 
 -Copy that "Bucket ARN" keep it for next Step.
 
-![Screenshot_20230620_132348](https://github.com/Diplahane/AWS-S3/assets/129828021/74473f02-cf0e-4d4a-9f8a-98d30f2d0bdb)
+![Screenshot 2025-01-11 220116](https://github.com/user-attachments/assets/00bf68b8-d291-46da-9d96-2b04ae06f99c)
 
 -Select the type of policy as "S3" and set the effect to "Allow."
 
@@ -153,15 +153,15 @@ Click on the "Save" button to save the file.
 
 -Click on "Add Statement" to include the generated policy.
 
-![Screenshot_20230620_132420](https://github.com/Diplahane/AWS-S3/assets/129828021/43d77d85-72fc-487e-ad19-0d0f430fa51c)
+![Screenshot 2025-01-11 220349](https://github.com/user-attachments/assets/d598ec0b-10c4-4c59-a2b0-2cb252b8d90e)
 
 -Click on the "Generate Policy" then policy will be generated.
 
-![Screenshot_20230620_132442](https://github.com/Diplahane/AWS-S3/assets/129828021/6e32a6a8-fc23-413a-8b5c-d3a857f33015)
+![Screenshot 2025-01-11 220400](https://github.com/user-attachments/assets/9b8cb1ec-fbcd-4712-a9f2-7341dee13fe9)
 
 -Copy the generated policy and paste it into the policy editor tab.
 
-![Screenshot_20230620_132454](https://github.com/Diplahane/AWS-S3/assets/129828021/c9a88095-bf47-4a89-827b-bcc7398214de)
+![Screenshot 2025-01-11 220433](https://github.com/user-attachments/assets/af0f0e35-a9d6-47db-9e4d-f4bb32ec5b53)
 
 -Paste that policy here.
 
@@ -169,21 +169,21 @@ Click on the "Save" button to save the file.
 
 -Click on "Save Changes" to apply the bucket policy.
 
-![Screenshot_20230620_133544](https://github.com/Diplahane/AWS-S3/assets/129828021/f7e0908b-8d52-4a47-bb4d-bf3991d1cb35)
+![Screenshot 2025-01-11 220649](https://github.com/user-attachments/assets/c2c27d29-2ff4-4142-84d5-8725e58acab1)
 
 -Go to the Bucket "Properties".
 
-![Screenshot_20230620_133818](https://github.com/Diplahane/AWS-S3/assets/129828021/07b69bd9-efc2-402e-b044-4124b03a79b8)
+![Screenshot 2025-01-11 220715](https://github.com/user-attachments/assets/e3463d8e-99fb-4049-a6ba-2004806a4646)
 
 -Navigate to the bucket's website endpoint and copy the provided link.
 
-![Screenshot_20230620_133830](https://github.com/Diplahane/AWS-S3/assets/129828021/624e6002-cd59-4a7c-b8fb-66ea0efbc897)
+![Screenshot 2025-01-11 220728](https://github.com/user-attachments/assets/c1eabe85-ba6c-4772-82fc-257195483475)
 
 -Open the link in a browser to verify if the website is functioning correctly.
 
 -You should now see your static website live and accessible through the provided URL.
 
-![Screenshot_20230620_133904](https://github.com/Diplahane/AWS-S3/assets/129828021/dbe3c381-bc01-4fe1-b486-1551edbf4cfd)
+![Screenshot 2025-01-11 220801](https://github.com/user-attachments/assets/837187dc-3bdf-49ed-a639-97513e1ef986)
 
 
 # That's it! You have successfully hosted a static website using AWS S3.
