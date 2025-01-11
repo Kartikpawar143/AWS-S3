@@ -55,7 +55,7 @@
 
 -Click on the "Save changes" button.
 
-![Screenshot 2025-01-11 215603](https://github.com/user-attachments/assets/249855e5-cab0-4d61-9441-19dd7a033338)
+![Screenshot 2025-01-11 222549](https://github.com/user-attachments/assets/38dae367-d8e0-4493-9de2-5f6d79ae8328)
 
 
 # Step 6: 
@@ -89,7 +89,7 @@ Click on the "Save" button to save the file.
 
 ![Screenshot 2025-01-11 215800](https://github.com/user-attachments/assets/fef8a726-c567-4a27-8dc2-8c1bdda1900f)
 
--Select the "dipindex.html" file.
+-Select the "kartikindex.html" file.
 
 ![Screenshot 2025-01-11 215826](https://github.com/user-attachments/assets/0bbddce4-0ddb-43aa-99fc-94d1a498cbd6)
 
