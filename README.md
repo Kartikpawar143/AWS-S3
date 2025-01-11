@@ -66,8 +66,7 @@ Open Notepad or any text editor and create a new file.
 
 Write the desired content that you want to display on the website.
 
-![Screenshot_20230620_131416](https://github.com/Diplahane/AWS-S3/assets/129828021/b4abbe98-07d1-42ca-8fc9-5349b32cb737)
-
+![Screenshot 2025-01-11 215603](https://github.com/user-attachments/assets/249855e5-cab0-4d61-9441-19dd7a033338)
 
 Go to the "File" menu and click on "Save As".
 
@@ -75,7 +74,7 @@ Enter a file name for your webpage, ensuring that you include the ".html" extens
 
 Click on the "Save" button to save the file.
 
-![Screenshot_20230620_131531](https://github.com/Diplahane/AWS-S3/assets/129828021/62adeaed-3ee6-48bd-82db-0bd2c703a63c)
+![Screenshot 2025-01-11 215651](https://github.com/user-attachments/assets/1def5401-279c-4fb6-9881-742984d02a42)
 
 
 
@@ -83,24 +82,23 @@ Click on the "Save" button to save the file.
 
 -Go to the "Upload" button or and click on it
 
-![Screenshot_20230620_131602](https://github.com/Diplahane/AWS-S3/assets/129828021/fea165c0-2f8b-4672-a6f2-0d864e7bfbe2)
-
+![Screenshot 2025-01-11 215742](https://github.com/user-attachments/assets/c2cc97b9-edf2-44c5-aba7-1a679dbc6311)
 
 
 -Go to the "Add files".
 
-![Screenshot_20230620_131624](https://github.com/Diplahane/AWS-S3/assets/129828021/5663c46d-1831-44fe-b458-6788d7fb438b)
+![Screenshot 2025-01-11 215800](https://github.com/user-attachments/assets/fef8a726-c567-4a27-8dc2-8c1bdda1900f)
 
 -Select the "dipindex.html" file.
 
-![Screenshot_20230620_131707](https://github.com/Diplahane/AWS-S3/assets/129828021/0b73f7e8-ee89-45b6-adf5-c55aee99115e)
+![Screenshot 2025-01-11 215826](https://github.com/user-attachments/assets/0bbddce4-0ddb-43aa-99fc-94d1a498cbd6)
 
 -Then click on the "Upload" button.
-![Screenshot_20230620_131727](https://github.com/Diplahane/AWS-S3/assets/129828021/4b9b8d4c-376e-463b-8828-5091c8664ee1)
+![Screenshot 2025-01-11 215844](https://github.com/user-attachments/assets/6bd69e7d-d304-4152-99d7-cec160a1bee3)
 
 -Once the upload is complete, you will see a confirmation message indicating that the file has been successfully uploaded.
 
-![Screenshot_20230620_131739](https://github.com/Diplahane/AWS-S3/assets/129828021/201a7b7d-dac2-4fb9-bb9c-dda3e4137229)
+![Screenshot 2025-01-11 215859](https://github.com/user-attachments/assets/80bdc732-077a-4f06-8835-b20f5ed082a5)
 
 
 
